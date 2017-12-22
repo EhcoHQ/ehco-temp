@@ -18,6 +18,7 @@ h1 {
 	height: 100%;
 	padding: 15px;
 	overflow: auto;
+	color: white;
 }
 
 p {
@@ -28,4 +29,5 @@ p {
 	height: 100%;
 	padding: 15px;
 	overflow: auto;
+	color: white;
 }
