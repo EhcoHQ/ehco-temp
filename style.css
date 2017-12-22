@@ -4,6 +4,10 @@
 	margin: 30;
 }
 
+body {
+	background-color: #215163;
+}
+
 h1 {
   font-family: 'Work Sans', sans-serif;
 	font-size: 500%;
