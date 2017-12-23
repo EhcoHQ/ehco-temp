@@ -52,10 +52,11 @@ p {
     	max-width: 50px;
 }
 
-.topFixedBar
+.bottomFixedBar
 {
-    position: fixed;
-    width: 100%;
-    background: white;
-    height: 30px;
+   	position: fixed;
+    	width: 100%;
+    	background: white;
+    	height: 30px;
+	margin: 0x
 }
