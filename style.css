@@ -24,14 +24,14 @@ h1 {
 p {
 	display: block;
  	font-family: 'Work Sans', sans-serif;
-  	font-size: 375%;
+  	font-size: 370%;
   	text-align: left;
   	font-weight: 100;    
 	height: 100%;
 	padding: 15px;
 	overflow: auto;
 	color: white;
-	margin:10px 40px 20px
+	margin:10px 30px 20px
 }
 
 address { 
