@@ -55,7 +55,7 @@ p {
 .bottomFixedBar
 {
 	background: white;
-	height: 30px;
+	height: 20px;
 	margin: 0x
  	position: fixed;
     	z-index: 100; 
