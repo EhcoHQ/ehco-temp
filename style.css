@@ -54,6 +54,7 @@ p {
 
 .bottomFixedBar
 {
+	visibility: hidden;
 	background: white;
 	height: 20px;
 	margin: 0x
