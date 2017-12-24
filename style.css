@@ -10,7 +10,7 @@
 
 body {
 
-	background: linear-gradient(to bottom, white 30%, #215163 70%);
+	background: linear-gradient(to bottom, white 0%,white 50%,#000000 50%,#215163 50%,#215163 100%);
 }
 
 
