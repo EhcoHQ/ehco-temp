@@ -31,7 +31,7 @@ div.topdiv {
 	padding: 15px;
 	overflow: auto;
 	color: #215163;
-	vertical-align: text-bottom;
+	vertical-align: bottom;
 }
 
 div.bottomdiv {
