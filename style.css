@@ -60,10 +60,9 @@ p {
 {
 	background: white;
 	height: 30px;
-	margin: 0px;
+	margin: 0
  	position: fixed;
     	top: 0px; 
-    	left: 0px;
     	width: 100%;
 	float: top;
 	font-family: 'Roboto', sans-serif;
