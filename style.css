@@ -13,21 +13,7 @@ body {
 	background: linear-gradient(to bottom, white 0%, white 40%,#215163 60%,#215163 100%);
 }
 
-h6 {
-	display: block;
- 	font-family: 'Work Sans', sans-serif;
-	font-size: 40%;
-	line-height: 140%;
- 	text-align: center;
- 	font-weight: 100;    
-	letter-spacing: .05em;
-	height: 100%;
-	padding: 15px;
-	overflow: auto;
-	color: white;
-	visibility: hidden;
 
-}
 h1 {
 	display: block;
 	font-family: 'Roboto', sans-serif;
@@ -39,8 +25,7 @@ h1 {
 	height: 100%;
 	padding: 15px;
 	overflow: auto;
-	color: white;
-
+	color: #215163;
 }
 
 p {
