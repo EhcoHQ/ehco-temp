@@ -19,7 +19,7 @@ div.topdiv {
 	clear:both;
 	position:fixed;
 	top:0;
-	height:30%;
+	height:20%;
 	width:100%;
 	background-color:white;
 	font-family: 'Roboto', sans-serif;
@@ -31,14 +31,13 @@ div.topdiv {
 	padding: 15px;
 	overflow: auto;
 	color: #215163;
-	vertical-align: -100px;
 }
 
 div.bottomdiv {
 	clear:both;
 	position:fixed;
 	bottom:0;
-	height:70%;
+	height:80%;
 	width:99%;
 	inline-block;
 	font-family: 'Work Sans', sans-serif;
