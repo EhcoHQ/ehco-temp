@@ -57,24 +57,3 @@ p {
     	max-width: 50px;
 }
 
-.topFixedBar
-{
-	visibility: hidden;
-	background: white;
-	height: 30px;
-	margin: 0
- 	position: fixed;
-    	top: 0px; 
-    	width: 100%;
-	float: top;
-	font-family: 'Roboto', sans-serif;
-	font-size: 400%;
-	line-height: 140%;
- 	text-align: left;
- 	font-weight: 400;    
-	letter-spacing: .05em;
-	height: 100%;
-	padding: 15px;
-	overflow: auto;
-	color: #215163;
-}
