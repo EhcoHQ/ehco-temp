@@ -9,7 +9,8 @@
 }
 
 body {
-	background: linear-gradient(to bottom,  #9c9e9f 0%,#9c9e9f 50%,#f6f6f6 50%,#f6f6f6 100%);
+
+	background: linear-gradient(to bottom,  #9c9e9f 0%,#9c9e9f 40%,#f6f6f6 50%,#215163 100%);
 }
 
 h6 {
