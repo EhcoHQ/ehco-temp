@@ -21,9 +21,17 @@ div.topdiv {
 	top:0;
 	height:50%;
 	width:100%;
-	background-color:#215163;
-	font-size:16px;
-	text-align:center;}
+	background-color:white;
+	font-family: 'Roboto', sans-serif;
+	font-size: 400%;
+	line-height: 140%;
+ 	text-align: left;
+ 	font-weight: 400;    
+	letter-spacing: .05em;
+	height: 100%;
+	padding: 15px;
+	overflow: auto;
+	color: #215163;
 
 div.bottomdiv {
 	clear:both;
@@ -33,6 +41,7 @@ div.bottomdiv {
 	width:100%;
 	inline-block;
 	font-family: 'Work Sans', sans-serif;
+	background-color: #215163; 
   	font-size: 100%;
   	text-align: left;
   	font-weight: 100;    
@@ -45,18 +54,5 @@ div.bottomdiv {
 }
 
 
-h1 {
-	display: block;
-	font-family: 'Roboto', sans-serif;
-	font-size: 400%;
-	line-height: 140%;
- 	text-align: left;
- 	font-weight: 400;    
-	letter-spacing: .05em;
-	height: 100%;
-	padding: 15px;
-	overflow: auto;
-	color: #215163;
-}
 
 
