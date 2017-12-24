@@ -9,7 +9,7 @@
 }
 
 body {
-	background: linear-gradient(to right,  #9c9e9f 0%,#9c9e9f 50%,#f6f6f6 50%,#f6f6f6 100%);
+	background: linear-gradient(to bottom,  #9c9e9f 0%,#9c9e9f 50%,#f6f6f6 50%,#f6f6f6 100%);
 }
 
 h6 {
@@ -58,6 +58,7 @@ p {
 
 .topFixedBar
 {
+	visibility: hidden;
 	background: white;
 	height: 30px;
 	margin: 0
