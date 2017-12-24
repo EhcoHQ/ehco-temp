@@ -28,7 +28,6 @@ div.topdiv {
  	text-align: left;
  	font-weight: 400;    
 	letter-spacing: .05em;
-	height: 100%;
 	padding: 15px;
 	overflow: auto;
 	color: #215163;
@@ -46,7 +45,6 @@ div.bottomdiv {
   	font-size: 100%;
   	text-align: left;
   	font-weight: 100;    
-	height: 100%;
 	padding: 15px;
 	overflow: auto;
 	color: white;
