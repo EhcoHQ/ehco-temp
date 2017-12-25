@@ -31,6 +31,8 @@ div.topdiv {
 	padding: 15px;
 	overflow: auto;
 	color: #215163;
+	display: table-cell;
+  	vertical-align: bottom;
 }
 
 div.bottomdiv {
