@@ -8,10 +8,6 @@
 	margin: 40;
 }
 
-header {
-    min-height: 50% !important;
-}
-
 body {
 	margin:0;
 	padding:0;
@@ -48,7 +44,7 @@ div.bottomdiv {
   	font-size: 275%;
   	text-align: left;
   	font-weight: 100;    
-	padding: 100px;
+	padding: 30px;
 	overflow: auto;
 	color: white;
 	margin:40px 50px 20px
