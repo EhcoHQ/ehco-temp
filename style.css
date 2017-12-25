@@ -8,6 +8,13 @@
 	margin: 40;
 }
 
+.bottom_aligner {
+    display: inline-block;
+    height: 100%;
+    vertical-align: bottom;
+    width: 0px;
+}
+
 
 body {
 	margin:0;
@@ -31,8 +38,6 @@ div.topdiv {
 	padding: 15px;
 	overflow: auto;
 	color: #215163;
-	display: table-cell;
-  	vertical-align: bottom;
 }
 
 div.bottomdiv {
