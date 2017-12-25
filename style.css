@@ -15,6 +15,7 @@ body {
 }
 
 div.topdiv {
+	display: block;
 	clear:both;
 	position:fixed;
 	top:0;
