@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Work+Sans:100,400');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:100,300');
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 @import url('https://fonts.googleapis.com/css?family=Roboto:300');
 
@@ -22,7 +22,7 @@ div.topdiv {
 	height:25%;
 	width:100%;
 	background-color:white;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	font-size: 200%;
 	line-height: 140%;
  	text-align: left;
