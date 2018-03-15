@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Work+Sans:200,300,500');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:200,300,400');
 @import url('https://fonts.googleapis.com/css?family=Lato:300');
 
 
@@ -102,10 +102,20 @@ and (max-width : 414px) {
 		height:83%;
 	}
 }
+
 /* unvisited link */
 a:link {
     color: #215163;
 		text-decoration: none;
+		font-weight: 300;
+}
+
+@media only screen
+and (min-width : 320px)
+and (max-width : 414px) {
+	a:link {
+		font-weight: 400;
+	}
 }
 
 /* visited link */
